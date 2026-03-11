@@ -20,7 +20,7 @@ The existing codebase remains a solid starting point for anyone who does have Pr
 - Next.js (App Router)
 - TypeScript
 - Spotify Web API
-- TailwindCSS (remove if not used)
+- TailwindCSS
 
 ## Getting Started
 
