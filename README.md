@@ -55,3 +55,4 @@ Because I do not have a Spotify Premium subscription, I can no longer test or co
 
 
 ## License
+MIT License
